@@ -2,7 +2,7 @@
 
 
 <h1>To understand the project you have to read the document which i uploaded in the name of "project paper" then you will get a proper understanding about this project</h1>
- <h2><font color=blue>The software which help your to run this analysis in you laptop/pc are:</h2>
+ <h2><font color=blue>The software which help your to run this analysis on you laptop/pc are:</h2>
  
  <ul>
         <li><a href="https://docs.anaconda.com/anaconda/navigator/index.html">Anaconda navigator</a></li>
